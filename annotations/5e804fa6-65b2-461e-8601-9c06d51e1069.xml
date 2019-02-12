@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Data Uang UV</folder>
+	<filename>5e804fa6-65b2-461e-8601-9c06d51e1069.JPG</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/5e804fa6-65b2-461e-8601-9c06d51e1069.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BI_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>604</ymin>
+			<xmax>437</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>

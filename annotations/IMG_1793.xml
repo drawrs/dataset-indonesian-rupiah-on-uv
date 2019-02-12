@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Data Uang UV</folder>
+	<filename>IMG_1793.jpeg</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/IMG_1793.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BUKIT_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>57</ymin>
+			<xmax>275</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>20_RIBU_ASLI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>284</ymin>
+			<xmax>383</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

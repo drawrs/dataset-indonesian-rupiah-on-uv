@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Data Uang UV</folder>
+	<filename>IMG_1523.jpeg</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/IMG_1523.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BI_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>179</ymin>
+			<xmax>306</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PITA_BERSINAR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>475</ymin>
+			<xmax>350</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

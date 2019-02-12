@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Data Uang UV</folder>
+	<filename>IMG_1540.jpeg</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/IMG_1540.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20_RIBU_ASLI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>156</ymin>
+			<xmax>325</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BUKIT_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>22</ymin>
+			<xmax>254</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>

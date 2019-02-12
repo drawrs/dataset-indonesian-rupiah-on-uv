@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Data Uang UV</folder>
+	<filename>IMG_7243.JPG</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/IMG_7243.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PITA_BERSINAR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>496</ymin>
+			<xmax>406</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

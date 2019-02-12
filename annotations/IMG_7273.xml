@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Data Uang UV</folder>
+	<filename>IMG_7273.JPG</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/IMG_7273.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IKAN_BADUT_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>145</ymin>
+			<xmax>250</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BI_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>304</ymin>
+			<xmax>232</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

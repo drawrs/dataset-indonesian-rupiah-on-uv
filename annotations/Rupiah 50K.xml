@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Data Uang UV</folder>
+	<filename>Rupiah 50K.jpg</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/Rupiah 50K.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TARI_BALI_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>9</ymin>
+			<xmax>108</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>50_ASLI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>94</ymin>
+			<xmax>206</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

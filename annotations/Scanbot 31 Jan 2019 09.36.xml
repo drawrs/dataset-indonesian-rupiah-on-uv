@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Data Uang UV</folder>
+	<filename>Scanbot 31 Jan 2019 09.36.JPG</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/Scanbot 31 Jan 2019 09.36.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1233</width>
+		<height>2774</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20_RIBU_ASLI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>768</xmin>
+			<ymin>638</ymin>
+			<xmax>1047</xmax>
+			<ymax>1288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BUKIT_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>42</ymin>
+			<xmax>722</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Data Uang UV</folder>
+	<filename>a785e3ee-bba3-4d2d-a15a-05870b240cd3.JPG</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/a785e3ee-bba3-4d2d-a15a-05870b240cd3.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MEGA_MENDUNG_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>691</ymin>
+			<xmax>620</xmax>
+			<ymax>939</ymax>
+		</bndbox>
+	</object>
+</annotation>

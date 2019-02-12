@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Data Uang UV</folder>
+	<filename>IMG_7417.PNG</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/IMG_7417.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1125</width>
+		<height>2436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20_RIBU_ASLI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>438</ymin>
+			<xmax>680</xmax>
+			<ymax>1035</ymax>
+		</bndbox>
+	</object>
+</annotation>

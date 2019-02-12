@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Data Uang UV</folder>
+	<filename>8cce2e6d-6484-4c40-bb82-dc4b21d26ddc.JPG</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/8cce2e6d-6484-4c40-bb82-dc4b21d26ddc.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10_RIBU_ASLI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>483</ymin>
+			<xmax>439</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Data Uang UV</folder>
+	<filename>IMG_7225.JPG</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/IMG_7225.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TARI_BALI_LOGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>183</ymin>
+			<xmax>389</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

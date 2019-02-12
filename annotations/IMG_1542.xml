@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Data Uang UV</folder>
+	<filename>IMG_1542.jpeg</filename>
+	<path>/Users/rizalhilman/Downloads/Data Uang UV/IMG_1542.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PITA_BERSINAR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>488</ymin>
+			<xmax>338</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>
